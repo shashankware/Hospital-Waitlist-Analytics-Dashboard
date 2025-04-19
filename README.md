@@ -41,7 +41,7 @@ This project was designed to help hospital administrators and care teams gain re
 ---
 
 ## 🔗 Demo & Portfolio
-- ✅ [LinkedIn Project Post]([#](https://www.linkedin.com/feed/update/urn:li:activity:7317909629168963586/))
+- ✅ [LinkedIn Project Post](https://www.linkedin.com/feed/update/urn:li:activity:7317909629168963586/)
 - ✅ [Power BI Dashboard Screenshots](#)
 - ✅ [Portfolio Page](#)
 
